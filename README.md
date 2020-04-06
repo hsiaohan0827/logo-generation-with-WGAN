@@ -6,9 +6,13 @@ python3 main.py
 ```
 
 In line 101(```if __name__=="__main__":```)中更改參數
-dataroot = path to database
-(要在這個資料夾下再放一個資料夾再放圖 ex: 圖放在./LLD/LLD1/, dataroot = './LLD')
+
+要在這個資料夾下再放一個資料夾再放圖 ex: 圖放在./LLD/LLD1/, dataroot = './LLD'
 ```
+dataroot = path to database
+```
+要在這個資料夾下再放一個資料夾再放圖 ex: 圖放在./LLD/LLD1/, dataroot = './LLD'
+
 path_res = path to output ckp and config
 ```
 
