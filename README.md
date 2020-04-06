@@ -7,7 +7,8 @@ python3 main.py
 
 In line 101(```if __name__=="__main__":```)中更改參數
 
-要在這個資料夾下再放一個資料夾再放圖 ex: 圖放在./LLD/LLD1/, dataroot = './LLD'
+download logo data from LLD (Large Logo Dataset: https://data.vision.ee.ethz.ch/sagea/lld/)
+data要放在這個資料夾下的子資料夾 ex: 圖放在./LLD/LLD1/, dataroot = './LLD'
 ```
 dataroot = path to database
 path_res = path to output ckp and config
