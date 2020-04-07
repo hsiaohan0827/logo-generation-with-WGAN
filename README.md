@@ -1,6 +1,6 @@
 # logo-generation-with-WGAN
 
-## train GAN 
+## Train
 ```
 python3 main.py
 ```
@@ -15,7 +15,7 @@ download logo data from LLD (Large Logo Dataset: https://data.vision.ee.ethz.ch/
 
 data要放在這個資料夾下的子資料夾 ex: 圖放在./LLD/LLD1/, dataroot = './LLD'
 
-## generate images
+## LOGO image generation
 ```
 python3 generate.py
 ```
